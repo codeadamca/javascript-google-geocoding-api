@@ -28,7 +28,7 @@ submit.addEventListener('click', function(){
             '<img src="https://maps.googleapis.com/maps/api/staticmap?center=' + 
                 data.results[0].geometry.location.lat + ', ' + 
                 data.results[0].geometry.location.lng + 
-                '&zoom=12&size=800x400&key=<GOOGLE_STATIC_MAPS_API>">';
+                '&zoom=12&size=800x400&key=' + key + '">';
 
     }).catch(function (err) {
         
