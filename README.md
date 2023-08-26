@@ -4,8 +4,8 @@ A basic example of using JavaScript with the Google Geocoding API.
 
 ![Google Maps Demo](_readme/screenshot-maps-demo.png)
 
-Current result is available here:  
-https://codeadamca.github.io/javascript-google-geocoding-api/demo.html
+> Current result is available here:  
+> https://codeadamca.github.io/javascript-google-geocoding-api/demo.html
 
 ***
 
