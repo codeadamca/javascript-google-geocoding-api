@@ -14,6 +14,7 @@ A basic example of using JavaScript with the Google Geocoding API.
 * [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding)
 * [Google Cloud Console](https://console.cloud.google.com/)
 
+<br>
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
